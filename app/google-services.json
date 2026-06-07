@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "154212898819",
+    "firebase_url": "https://zopchat-ts-default-rtdb.firebaseio.com",
+    "project_id": "zopchat-ts",
+    "storage_bucket": "zopchat-ts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154212898819:android:19e48c299e59bfae9dd636",
+        "android_client_info": {
+          "package_name": "com.zopchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154212898819-rg694cgq5273ct85hl0njj0msfp8cfo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8CtV1qGo0dvKeYBe5spjMNwdl9X13hHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154212898819-rg694cgq5273ct85hl0njj0msfp8cfo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

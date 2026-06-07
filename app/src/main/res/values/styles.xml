@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.ZopChat" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/zop_bg</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="colorPrimary">@color/zop_green</item>
+        <item name="colorPrimaryVariant">@color/zop_green_dark</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+</resources>

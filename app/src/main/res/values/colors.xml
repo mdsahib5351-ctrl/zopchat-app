@@ -1,0 +1,8 @@
+<resources>
+    <color name="zop_green">#0F9F7A</color>
+    <color name="zop_green_dark">#08755A</color>
+    <color name="zop_bg">#F4F7F6</color>
+    <color name="zop_text">#0F172A</color>
+    <color name="zop_muted">#64748B</color>
+    <color name="zop_line">#E2E8F0</color>
+</resources>
