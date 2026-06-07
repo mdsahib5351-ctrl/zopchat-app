@@ -1,8 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="zop_green">#0F9F7A</color>
-    <color name="zop_green_dark">#08755A</color>
-    <color name="zop_bg">#F4F7F6</color>
-    <color name="zop_text">#0F172A</color>
-    <color name="zop_muted">#64748B</color>
-    <color name="zop_line">#E2E8F0</color>
+    <color name="zop_green_dark">#08785D</color>
+    <color name="zop_ink">#10201C</color>
+    <color name="zop_muted">#687772</color>
+    <color name="zop_bg">#F4F7F5</color>
+    <color name="zop_white">#FFFFFF</color>
+    <color name="zop_bubble_me">#D9F8EC</color>
+    <color name="zop_line">#DCE7E2</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
 </resources>
